@@ -2,8 +2,7 @@
 ### 2. git 연습
 ### 3. 예제 코드
 
-""java
-
+```java
 public class HelloWorld {
 
 	public static void main(String[] args) {
@@ -11,3 +10,4 @@ public class HelloWorld {
 		System.out.println("Hello World!!!!!!!!!!");
 	}
 }
+```
